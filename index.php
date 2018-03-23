@@ -38,7 +38,7 @@
 							</div>
 
 							<div class="hero-footer">
-								<p><a href="#" class="btn btn-custom btn-lg">Candidate Login</a> <a href="#" class="btn btn-danger btn-lg">Employer Login</a></p>
+								<p><a href="#" class="btn btn-custom btn-lg mb-2">Candidate Login</a> <a href="#" class="btn btn-danger btn-lg mb-2">Employer Login</a></p>
 							</div>
 						</div>
 					</div>
@@ -141,8 +141,8 @@
 										<input type="email" class="form-control candidate-input" id="email" placeholder="Email Address">
 									</fieldset>
 									<div class="text-center">
-										<input type="submit" class="btn btn-warning" value="Post Resume For Free"> 
-										<input type="submit" class="btn btn-danger" value="Submit Video Resume">
+										<input type="submit" class="btn btn-warning mb-2" value="Post Resume For Free"> 
+										<input type="submit" class="btn btn-danger mb-2" value="Submit Video Resume">
 									</div>
 									<p class="mt-4 text-center">Already have an account? <a href="#">Sign In</a></p>
 								</form>

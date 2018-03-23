@@ -87,6 +87,7 @@ input[type='submit'] {
   -webkit-background-size: cover;
   background-size: cover;
   min-height: 20em;
+  padding-top: 5em;
   color: #fff;
   text-align: center;
   margin-bottom: 0;
