@@ -169,8 +169,117 @@
 			</div>
 		</section>
 
-		<section style="min-height: 1200px;">
-			
+		<div class="employers-intro clearfix">
+			<div class="container-fluid">
+				<a href="#" class="float-left">Looking to hire? <span>&raquo;</span></a>
+				<a href="#" class="float-right">Browse More Companies <span>&raquo;</span></a>
+			</div>
+		</div>
+
+		<section class="employers">
+			<div class="container">
+				<div class="row">
+					<div class="col-9 mx-auto">
+						<div class="emp-call-to-action">
+							<p class="lead">Register now and let employees find you</p>
+							<p>More than <span>20,000</span> professionals waiting to be contacted by employers every month through JobsNCandidates</p>
+							<p>Take the next step</p>
+							<a href="#" class="btn btn-danger">free trial access now &rarr;</a>
+						</div>
+					</div>
+				</div>
+			</div>
+		</section>
+
+		<section class="freelancer">
+			<div class="container-fluid">
+				<div class="row">
+					<div class="col-8 mx-auto">
+						<div class="freelancer-desc">
+							<h2>
+								Showcase Your Freelancing Career
+							</h2>
+
+							<p>
+								Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque fugit autem vitae similique magni porro eaque ab itaque soluta unde delectus reprehenderit incidunt, beatae quae id labore accusantium adipisci inventore ea vel doloribus quas dolor.
+							</p>
+						</div>
+					</div>
+				</div>
+
+				<div class="row">
+					<div class="col-xs-12 col-sm-6 col-md-4">
+						<div class="freelancer-perks">
+							<img src="images/brands.svg" alt="">
+							<h4>Build Your Own Brand</h4>
+							<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum excepturi earum quidem nostrum. Placeat porro ullam itaque corporis tempore consequatur.</p>
+						</div>
+					</div>
+
+					<div class="col-xs-12 col-sm-6 col-md-4">
+						<div class="freelancer-perks">
+							<img src="images/jobs.svg" alt="">
+							<h4>Secure Better Jobs</h4>
+							<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum excepturi earum quidem nostrum. Placeat porro ullam itaque corporis tempore consequatur.</p>
+						</div>
+					</div>
+
+					<div class="col-xs-12 col-sm-6 col-md-4">
+						<div class="freelancer-perks">
+							<img src="images/portfolio.svg" alt="">
+							<h4>Broadcast Your Portfolio</h4>
+							<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum excepturi earum quidem nostrum. Placeat porro ullam itaque corporis tempore consequatur.</p>
+						</div>
+					</div>
+
+					<div class="col-xs-12 col-sm-6 col-md-4">
+						<div class="freelancer-perks">
+							<img src="images/rates.svg" alt="">
+							<h4>Determin Your Own rates</h4>
+							<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum excepturi earum quidem nostrum. Placeat porro ullam itaque corporis tempore consequatur.</p>
+						</div>
+					</div>
+
+					<div class="col-xs-12 col-sm-6 col-md-4">
+						<div class="freelancer-perks">
+							<img src="images/communicate.svg" alt="">
+							<h4>Easy Communication with clients</h4>
+							<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum excepturi earum quidem nostrum. Placeat porro ullam itaque corporis tempore consequatur.</p>
+						</div>
+					</div>
+
+					<div class="col-xs-12 col-sm-6 col-md-4">
+						<div class="freelancer-perks">
+							<img src="images/brands.svg" alt="">
+							<h4>Get Paid quickly and easily</h4>
+							<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum excepturi earum quidem nostrum. Placeat porro ullam itaque corporis tempore consequatur.</p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</section>
+
+		<section class="freelancer2">
+			<div class="container">
+				<div class="row">
+					<div class="col-xs-12 col-sm-6 col-md-8">
+						<div class="freelancer-call-to-action">
+							<h4>Steady Work <br>easy lifestyle</h4>
+						</div>
+					</div>
+
+					<div class="col-xs-12 col-sm-6 col-md-4">
+						<div class="freelancer-call-to-action">
+							<p>Submit work, receive feedback, and get paid all in one place using JobsNCandidates workstation platform.</p>
+							<div class="text-center">
+								<a href="#" class="btn btn-custom">
+									sign up as a freelancer
+								</a>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
 		</section>
 
 

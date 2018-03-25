@@ -28,7 +28,7 @@ h1 {
 }
 
 p {
-  font-size: 1.1em;
+  font-size: .98em;
   opacity: .89;
 }
 
@@ -36,6 +36,7 @@ p {
   background-color: transparent;
   border: 2px solid #dc3545;
   color: #fff;
+  transition: all .4s ease-in;
 }
 
 .btn-custom:hover {
@@ -113,6 +114,93 @@ input[type='submit'] {
   /*min-height: 1200px;*/
 }
 
+
+.employers {
+  background: linear-gradient(rgba(10, 10, 10, .5), rgba(0, 0, 0, .7)), url('../images/employers.jpg') center center no-repeat;
+  -webkit-background-size: cover;
+  background-size: cover;
+  color: #fff;
+  text-align: center;
+}
+
+.employers p.lead {
+  font-size: 1.8em;
+  line-height: 1.2em;
+}
+
+.employers p span {
+  font-size: 2em;
+  color: #b33;
+  font-weight: 700;
+}
+
+.employers a {
+  text-transform: capitalize;
+}
+
+.employers-intro {
+  background: #fff;
+  text-transform: capitalize;
+  padding: .5em 0;
+}
+
+.employers-intro a {
+  color: #000;
+  font-size: 1.2em;
+  transition: all .4s ease-in;
+}
+
+.employers-intro a:hover {
+  padding: 0 .5em;
+  text-decoration: none;
+  border-left: 2px solid #b33;
+}
+
+.employers-intro a span {
+  color: #b33;
+}
+
+.freelancer {
+  text-align: center;
+}
+
+.freelancer-desc {
+  text-align: left;
+  margin-bottom: 3em;
+}
+
+.freelancer-perks {
+  margin-bottom: 3em;
+}
+
+.freelancer-perks img {
+  margin-bottom: 2em;
+}
+
+.freelancer2 {
+  background:linear-gradient(rgba(10, 10, 10, .2), rgba(0, 0, 0, .4)), url('../images/freelancer-bg.jpg') center center no-repeat;
+  -webkit-background-size: cover;
+  background-size: cover;
+  min-height: 20em;
+}
+
+.freelancer-call-to-action {
+  color: #fff;
+}
+
+.freelancer-call-to-action h4 {
+  font-size: 3em;
+  line-height: 1.3em;
+}
+
+.freelancer-call-to-action a {
+  text-transform: uppercase;
+}
+
+
+section {
+  padding: 5em 0;
+}
 
 @media screen and (max-width: 400px) {
   .announcement {
