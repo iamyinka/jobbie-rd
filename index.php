@@ -235,7 +235,7 @@
 					<div class="col-xs-12 col-sm-6 col-md-4">
 						<div class="freelancer-perks">
 							<img src="images/rates.svg" alt="">
-							<h4>Determin Your Own rates</h4>
+							<h4>Determine Your Own rates</h4>
 							<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum excepturi earum quidem nostrum. Placeat porro ullam itaque corporis tempore consequatur.</p>
 						</div>
 					</div>
@@ -264,7 +264,7 @@
 				<div class="row">
 					<div class="col-xs-12 col-sm-6 col-md-8">
 						<div class="freelancer-call-to-action">
-							<h4>Steady Work <br>easy lifestyle</h4>
+							<h4>Steady Work, <br>easy lifestyle</h4>
 						</div>
 					</div>
 
@@ -272,7 +272,7 @@
 						<div class="freelancer-call-to-action">
 							<p>Submit work, receive feedback, and get paid all in one place using JobsNCandidates workstation platform.</p>
 							<div class="text-center">
-								<a href="#" class="btn btn-custom">
+								<a href="#" class="btn btn-custom btn-lg">
 									sign up as a freelancer
 								</a>
 							</div>
