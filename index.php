@@ -281,7 +281,81 @@
 				</div>
 			</div>
 		</section>
+		
+		<footer id="footer">
+			<div class="container">
+				<div class="row">
 
+					<div class="col-md-2">
+						<p class="lead">Jobs</p>
+						<span class="underline"></span>
+		        <ul class="footer-links list-unstyled">
+		        	<li><a href="#">Find Jobs</a></li>
+		        	<li><a href="#">Register for jobs</a></li>
+		        	<li><a href="#">Jobs by title</a></li>
+		        	<li><a href="#">Sign up for job alerts</a></li>
+		        </ul>
+					</div>		
+
+					<div class="col-md-2">
+						<p class="lead">Employers</p>
+						<span class="underline"></span>
+		        <ul class="footer-links list-unstyled">
+		        	<li><a href="#">Find Jobs</a></li>
+		        	<li><a href="#">Register for jobs</a></li>
+		        	<li><a href="#">Jobs by title</a></li>
+		        	<li><a href="#">Sign up for job alerts</a></li>
+		        </ul>
+					</div>
+
+					<div class="col-md-2">
+						<p class="lead">Freelancers</p>
+						<span class="underline"></span>
+		        <ul class="footer-links list-unstyled">
+		        	<li><a href="#">Find Jobs</a></li>
+		        	<li><a href="#">Register for jobs</a></li>
+		        	<li><a href="#">Jobs by title</a></li>
+		        	<li><a href="#">Sign up for job alerts</a></li>
+		        </ul>
+					</div>
+
+					<div class="col-md-2">
+						<p class="lead">Services</p>
+						<span class="underline"></span>
+		        <ul class="footer-links list-unstyled">
+		        	<li><a href="#">Find Jobs</a></li>
+		        	<li><a href="#">Register for jobs</a></li>
+		        	<li><a href="#">Jobs by title</a></li>
+		        	<li><a href="#">Sign up for job alerts</a></li>
+		        </ul>
+					</div>
+
+					<div class="col-md-2">
+						<p class="lead">Support</p>
+						<span class="underline"></span>
+		        <ul class="footer-links list-unstyled">
+		        	<li><a href="#">Find Jobs</a></li>
+		        	<li><a href="#">Register for jobs</a></li>
+		        	<li><a href="#">Jobs by title</a></li>
+		        	<li><a href="#">Sign up for job alerts</a></li>
+		        </ul>
+					</div>
+
+					<div class="col-md-2">
+						<p class="lead">Socials</p>
+						<span class="underline"></span>
+		        <ul class="footer-links list-unstyled">
+		        	<li><a href="#">Find Jobs</a></li>
+		        	<li><a href="#">Register for jobs</a></li>
+		        	<li><a href="#">Jobs by title</a></li>
+		        	<li><a href="#">Sign up for job alerts</a></li>
+		        </ul>
+					</div>
+
+				</div>
+				<p class="text-center mt-4">&copy; 2018 &mdash; JobsNCandidates</p>
+			</div>
+		</footer>
 
 
 

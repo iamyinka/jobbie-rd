@@ -202,6 +202,31 @@ section {
   padding: 5em 0;
 }
 
+
+#footer{
+  position: relative;
+  padding: 5em 0;
+  box-sizing: border-box;
+  color: #b33;
+}
+
+.footer-links li a {
+  font-size: .87em;
+  color: #444;
+}
+
+.underline {
+  display: block;
+  width: 15%;
+  background-color: #000;
+  height: 5px;
+  margin-bottom: 2em;
+}
+
+
+
+
+
 @media screen and (max-width: 400px) {
   .announcement {
     display: none;
